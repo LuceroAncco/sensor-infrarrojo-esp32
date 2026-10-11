@@ -54,3 +54,5 @@ Si el sensor marca obstáculo todo el tiempo, alejarlo de la luz solar directa y
 | `docs/` | Diagrama de conexiones, fotos y captura de la consola |
 
 ![Montaje completo](docs/montaje.jpeg)
+
+![Sensor detectando un objeto](docs/deteccion_objeto.jpeg)
